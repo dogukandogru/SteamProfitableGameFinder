@@ -1,6 +1,7 @@
 Bu proje Steam platformundaki koleksiyon kartları oyunun fiyatından daha pahalı olan oyunları bulup size listeler. Böylece bu oyunları alarak ve kartlarını düşürüp satarak kâr elde edebilirsiniz.
 
 Desteklenen dil : Türkçe
+
 Desteklenen para birimi = TL
 
 Kullanım : 
